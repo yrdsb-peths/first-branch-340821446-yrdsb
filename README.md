@@ -1,5 +1,3 @@
 # Git terminology, history, branching
 
-Look at the current github *Issues* by clicking on its tab.
-
-Complete all of the *Issues*.
+Don't look at the current GitHub *Issues*, because there aren't any.
