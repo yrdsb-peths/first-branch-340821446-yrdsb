@@ -1,5 +1,5 @@
 # Git terminology, history, branching
 
-Look at the current github *Issues* by clicking on its tab.
+Don't look at the current GitHub *Issues*, because there aren't any.
 
-Complete all of the *Issues*.
+<https://itisamystery.com>
